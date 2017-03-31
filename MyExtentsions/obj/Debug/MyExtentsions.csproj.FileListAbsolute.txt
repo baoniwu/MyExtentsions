@@ -1,0 +1,5 @@
+D:\CSharp-Projects\MyExtentsions\MyExtentsions\bin\Debug\MyExtentsions.dll
+D:\CSharp-Projects\MyExtentsions\MyExtentsions\bin\Debug\MyExtentsions.pdb
+D:\CSharp-Projects\MyExtentsions\MyExtentsions\obj\Debug\MyExtentsions.csprojResolveAssemblyReference.cache
+D:\CSharp-Projects\MyExtentsions\MyExtentsions\obj\Debug\MyExtentsions.dll
+D:\CSharp-Projects\MyExtentsions\MyExtentsions\obj\Debug\MyExtentsions.pdb
